@@ -1,8 +1,8 @@
-#### React-Magento
+## React-Magento
 
 A simple way to building HTML forms out of a JSON schema using React Antd UI.
 
-##### 传入 Form 的数据结构
+### 传入 Form 的数据结构
 
 ```js
 {
@@ -56,7 +56,7 @@ A simple way to building HTML forms out of a JSON schema using React Antd UI.
 }
 ```
 
-##### 使用方式
+### 使用方式
 
 ```js
 const Depict = props => {
@@ -128,7 +128,7 @@ const Depict = props => {
 }
 ```
 
-##### Form 返回的字段
+### Form 返回的字段
 
 ```js
 {
@@ -142,7 +142,7 @@ const Depict = props => {
 }
 ```
 
-##### 自定义 Api
+### 自定义 Api
 
 |字段|描述|类型|
 |----|---|---|
